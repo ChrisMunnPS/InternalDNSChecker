@@ -186,3 +186,8 @@ The Enhanced DNS Health Monitor is a comprehensive PowerShell-based solution des
 The script is designed to be self-contained and low-maintenance, requiring minimal ongoing intervention once properly configured. Regular review of alert thresholds and configuration parameters ensures continued effectiveness as the environment evolves.
 
 For organizations with complex DNS environments or specific compliance requirements, the modular design allows for easy customization and extension of functionality.
+
+
+### Example of Report
+
+![DNS Report Screenshot](https://github.com/ChrisMunnPS/InternalDNSChecker/blob/main/DNS_Report.png)
